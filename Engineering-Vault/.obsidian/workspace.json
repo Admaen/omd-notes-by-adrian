@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "3581791ce15fc2ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5683d86c63da6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c65a687a601e6aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "222dd1efc33eceaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "87e9e87932aa9ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09a746e4a80c4aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97629f6d417ecc55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13713041096a9694",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2d906e1a0e713ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f266057e4b5a13a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0ace4bf098f1d8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a74298ee709d0b38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4359b2979eb0f7ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a477de7088fb3b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c65a687a601e6aa",
+  "lastOpenFiles": [
+    "Embedded-Software-Engineering/Linux/Diary-Personal-Thoughts/Untitled.md",
+    "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
+    "Embedded-Software-Engineering/Linux/Diary-Personal-Thoughts",
+    "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
+    "Embedded-Software-Engineering/Linux/Topic Overview.md",
+    "Embedded-Software-Engineering/Linux/Some-Notes",
+    "Embedded-Software-Engineering/Linux",
+    "Embedded-Software-Engineering/Networks/Untitled.md",
+    "Embedded-Software-Engineering/Linux/Linux-Kernel",
+    "Embedded-Software-Engineering/Networks",
+    "Mathematics",
+    "Embedded-Software-Engineering",
+    "Welcome.md"
+  ]
+}
