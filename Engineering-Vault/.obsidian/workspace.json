@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md"
+                "file": "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09a746e4a80c4aa7",
+  "active": "9c65a687a601e6aa",
   "lastOpenFiles": [
+    "Embedded-Software-Engineering/Linux/Diary-Personal-Thoughts/Untitled.md",
+    "Embedded-Software-Engineering/Linux/Some-Notes/Introduction to Linux.md",
+    "Embedded-Software-Engineering/Linux/Diary-Personal-Thoughts",
+    "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
+    "Embedded-Software-Engineering/Linux/Topic Overview.md",
+    "Embedded-Software-Engineering/Linux/Some-Notes",
     "Embedded-Software-Engineering/Linux",
     "Embedded-Software-Engineering/Networks/Untitled.md",
-    "Embedded-Software-Engineering/Linux/Linux-Kernel/Kernel Modules.md",
     "Embedded-Software-Engineering/Linux/Linux-Kernel",
     "Embedded-Software-Engineering/Networks",
     "Mathematics",
